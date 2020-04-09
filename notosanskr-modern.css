@@ -3,9 +3,9 @@
   font-style: normal;
   font-weight: 100;
   src: local("Noto Sans KR Thin"), local("NotoSansKR-Thin"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-100.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-100.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-100.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-100.woff")
       format("woff");
 }
 @font-face {
@@ -13,9 +13,9 @@
   font-style: normal;
   font-weight: 300;
   src: local("Noto Sans KR Light"), local("NotoSansKR-Light"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-300.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-300.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-300.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-300.woff")
       format("woff");
 }
 @font-face {
@@ -23,9 +23,9 @@
   font-style: normal;
   font-weight: 400;
   src: local("Noto Sans KR Regular"), local("NotoSansKR-Regular"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-regular.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-regular.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-regular.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-regular.woff")
       format("woff");
 }
 @font-face {
@@ -33,9 +33,9 @@
   font-style: normal;
   font-weight: 500;
   src: local("Noto Sans KR Medium"), local("NotoSansKR-Medium"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-500.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-500.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-500.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-500.woff")
       format("woff");
 }
 @font-face {
@@ -43,9 +43,9 @@
   font-style: normal;
   font-weight: 700;
   src: local("Noto Sans KR Bold"), local("NotoSansKR-Bold"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-700.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-700.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-700.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-700.woff")
       format("woff");
 }
 @font-face {
@@ -53,8 +53,8 @@
   font-style: normal;
   font-weight: 900;
   src: local("Noto Sans KR Black"), local("NotoSansKR-Black"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-900.woff2")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-900.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/noto-sans-kr-v12-korean_latin-900.woff")
+    url("https://cdn.jsdelivr.net/gh/slowalk/webfont/notosanskr/noto-sans-kr-v12-korean_latin-900.woff")
       format("woff");
 }
